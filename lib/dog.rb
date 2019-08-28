@@ -3,10 +3,10 @@ class Dog
     @name = dogs_name
   end
  
-  def name
+  def dogs_name
     @name
   end
 end
  
 fido = Dog.new("fido")
-fido.name
+fido.dogs_name
