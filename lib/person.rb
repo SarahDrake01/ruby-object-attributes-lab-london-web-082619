@@ -1,7 +1,7 @@
 class Person
  
-   def name = (peoples_name)
-    @name = peoples_name
+   def name = (person_name)
+    @name = person_name
   end
  
  
