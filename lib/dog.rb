@@ -14,8 +14,8 @@ fido.name = "fido"
  
 puts fido.name
 
-def breed=(dogs_name)
-  @breed = (dogs_name)
+def breed=(dogs_breed)
+  @breed = (dogs_breed)
 end
 
 def breed
