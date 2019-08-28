@@ -23,3 +23,7 @@ def breed
 end
 end
 
+fido = Dog.new
+fido.breed = "fido"
+
+puts fido.breed
